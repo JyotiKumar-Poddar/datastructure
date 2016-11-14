@@ -1,10 +1,11 @@
 package algo.sorting;
+
 /**
  * 
  * @author jyotipoddar
  *
- * Ref: https://en.wikipedia.org/wiki/Heapsort
- *      www.geeksforgeeks.org/data-structures
+ *         Ref: https://en.wikipedia.org/wiki/Heapsort
+ *         www.geeksforgeeks.org/data-structures
  */
 public class HeapSort {
 
@@ -14,7 +15,7 @@ public class HeapSort {
 		new HeapSort().sort(array);
 
 		for (int i : array) {
-			System.out.printf(" %d ",i);
+			System.out.printf(" %d ", i);
 		}
 	}
 
