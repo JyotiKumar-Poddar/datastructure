@@ -3,6 +3,8 @@ package algo.sorting;
  * 
  * @author jyotipoddar
  *
+ * Ref: https://en.wikipedia.org/wiki/Heapsort
+ *      www.geeksforgeeks.org/data-structures
  */
 public class HeapSort {
 
