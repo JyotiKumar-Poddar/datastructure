@@ -1,10 +1,10 @@
 package algo.graph;
 
-
-// Reference: http://www.geeksforgeeks.org/graph-and-its-representations/
-
-
-
+/**
+ * 
+ * @author jyotipoddar
+ *
+ */
 //A structure to represent an adjacency list node
 class Node {
 	int dest;
